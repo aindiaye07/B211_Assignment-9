@@ -4,12 +4,6 @@ Purpose:
 - Project implements NLP techniques to analyze unstructured text data.
 - Aims to identify the top tokens, common phrases, named entities, and potential authorship matches between four different text files.
 
-# B211_Assignment-9
-
-Purpose:
-- Project implements NLP techniques to analyze unstructured text data.
-- Aims to identify the top tokens, common phrases, named entities, and potential authorship matches between four different text files.
-
 Class Design:
 TextAnalyzer: A container class that isolates the data and processing for a single file.
 _load_text: Ensures the file is read in a standard UTF-8 format.
